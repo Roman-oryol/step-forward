@@ -227,3 +227,12 @@ body {
     border: 3px solid var(--color-light-secondary);
   }
 }
+
+.footer {
+  padding-top: 30px;
+  padding-bottom: 10px;
+  font-size: 18px;
+  color: var(--color-light-secondary);
+  text-align: center;
+  background-color: var(--color-bg-dark);
+}
